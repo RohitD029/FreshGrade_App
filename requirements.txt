@@ -1,6 +1,11 @@
-streamlit
-tensorflow-cpu==2.12.0
-numpy==1.24.3
-pillow
-protobuf==3.20.3
+torch
+torchvision
+torchaudio
+numpy
+pandas
 scikit-learn
+matplotlib
+seaborn
+tqdm
+streamlit
+Pillow
